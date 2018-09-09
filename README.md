@@ -9,5 +9,6 @@ IT'S NOT A HACKER COMMAND (You are not a hacker when you will use it, It's basic
 
 COMMAND !
 So to use this command, go straight to CMD. and type:
+
 --> netsh wlan show profile "NAME OF WIFI" key=clear <-- 
 
