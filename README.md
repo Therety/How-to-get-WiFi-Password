@@ -1,5 +1,4 @@
-We are not here to see what exacly the command do...
-The command I'm going to shere here is command for getting WiFi's password "Quick and Easy". It's just up to you how are you going
+The command I'm going to share here is a command for getting WiFi's password "Quick and Easy". It's just up to you how are you going
 to use it.
 
 NECESSARY !
