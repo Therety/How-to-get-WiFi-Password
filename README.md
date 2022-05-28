@@ -1,13 +1,9 @@
-The command I'm going to share here is a command for getting WiFi's password "Quick and Easy". It's just up to you how are you going
+The command is a "Quick and Easy" way to get a WiFi password. It's just up to you how are you going
 to use it.
 
-NECESSARY TO KNOW
-This command is not working on "Not know WiFi's". That means, you can't just use it to get anyones WiFi password (that would be silly).
-This command is working only if you were already connected to this Wifi, the password is sotred on your device andthe computer remembers it.
-IT'S NOT A HACKER COMMAND (You are not a hacker when you'll use it, It's a legal command)
+The command is legal and it may be removed from future Windows versions. It works only on known WiFi's, so an attempt to use this on WiFi that the device was previously not joined at will not work. 
+Basically it displays information regarding to SSID you have choosen with password being in plain readable text.
 
-COMMAND:
-So to use this command, go straight to CMD. and type:
+To use this command, go to CMD on Windows. and type:
 
 /: netsh wlan show profile "NAME OF WIFI" key=clear
-
